@@ -38,5 +38,6 @@ O objetivo deste projeto é criar um aplicativo web interativo que permita aos u
 │   └── EDA.ipynb
 └── .streamlit/
     └── config.toml
-O aplicativo está disponível online em:https://vehicle-analysis-app.onrender.com/
+O aplicativo está disponível online em: https://vehicle-analysis-app.onrender.com/
     
+
